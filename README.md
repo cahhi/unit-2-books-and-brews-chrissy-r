@@ -5,7 +5,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#-technologies-used)
 - [Installation Instructions](#installation-instructions)
 - [Wireframe](#wireframe)
 - [Entity Relationship Diagram](#entity-relationship-diagram-erd)

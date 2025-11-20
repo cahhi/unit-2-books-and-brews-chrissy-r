@@ -25,6 +25,10 @@ This project shows learned skills through the LaunchCode FullStack Web Developme
 
 ## 💻 Technologies used
 
+| Tools/Frameworks | Description|
+|:-- | :-- |
+| **JavaScript** | A versatile and powerful programming language that adds interactivity to websites |
+
 ---
 
 ## Installation Instructions

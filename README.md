@@ -4,13 +4,13 @@
 ---
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#`project-overview)
 - [Technologies Used](#-technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Wireframe](#wireframe)
-- [Entity Relationship Diagram](#entity-relationship-diagram-erd)
-- [Problems](#problems)
-- [Future Features](#future-features)
+- [Installation Instructions](#-installation-instructions)
+- [Wireframe](#-wireframe)
+- [Entity Relationship Diagram](#-entity-relationship-diagram-erd)
+- [Problems](#-problems)
+- [Future Features](#-future-features)
 
 ---
 
@@ -68,7 +68,7 @@ cd java-spring-boot-backend-app
 ```
 ---
 
-## Wireframe
+## 🧰 Wireframe
 
 ![Wireframe](readme-images/wireframebandb.png)
 
@@ -76,15 +76,24 @@ cd java-spring-boot-backend-app
 
 ---
 
-## Entity Relationship Diagram (ERD)
+## 🔨 Entity Relationship Diagram (ERD)
 
 ![ERD](readme-images/ERD.png)
 *I created the ERD using Figma to showcase the relational databases used in this application*
 
 ---
 
-## Problems
+## 🤕 Problems
+
+- Not user authentication 🔓
+- Not able to upload images for book covers 📷❌
+- Can not edit books once submitted 📖✍️❌
 
 ---
 
-## Future Features!
+## 🔮 Future Features!
+
+- User Authentication with clearly defined user privileges and permissions 🔐
+- Admin users will be able to upload images for new books submitted 💿
+- Able to edit any part of books even when submitted 📖✍️
+- AI chatbot that can recommend books in the store to users 📗

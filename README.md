@@ -1,10 +1,11 @@
 #  📚 Books and Brews ☕
 **Capstone Project for LaunchCode**
+[Logo](readme-images/BooksandBrewsLogo.jpg)
 
 ---
 
 ## Table of Contents
-- [Project Overview](#`project-overview)
+- [Project Overview](#-project-overview)
 - [Technologies Used](#-technologies-used)
 - [Installation Instructions](#-installation-instructions)
 - [Wireframe](#-wireframe)

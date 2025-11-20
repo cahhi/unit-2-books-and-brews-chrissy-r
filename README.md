@@ -1,6 +1,6 @@
 #  📚 Books and Brews ☕
 **Capstone Project for LaunchCode**
-[Logo](readme-images/BooksandBrewsLogo.jpg)
+![Logo](readme-images/BooksandBrewsLogo.jpg)
 
 ---
 

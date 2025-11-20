@@ -70,9 +70,15 @@ cd java-spring-boot-backend-app
 
 ## Wireframe
 
+![Wireframe](readme-images/wireframebandb.png)
+*I used Figma to create my wireframe*
+
 ---
 
 ## Entity Relationship Diagram (ERD)
+
+![ERD](readme-images/ERD.png)
+*I created the ERD using Figma to showcase the relational databases used in this application*
 
 ---
 

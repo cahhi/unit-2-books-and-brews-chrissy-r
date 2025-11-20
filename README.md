@@ -4,13 +4,13 @@
 ---
 
 ## Table of Contents
--[Project Overview](#project-overview)
--[Technologies Used](#technologies-used)
--[Installation Instructions](#installation-instructions)
--[Wireframe](#wireframe)
--[Entity Relationship Diagram](#entity-relationship-diagram-erd)
--[Problems](#problems)
--[Future Features](#future-features)
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Installation Instructions](#installation-instructions)
+- [Wireframe](#wireframe)
+- [Entity Relationship Diagram](#entity-relationship-diagram-erd)
+- [Problems](#problems)
+- [Future Features](#future-features)
 
 ---
 
@@ -71,6 +71,7 @@ cd java-spring-boot-backend-app
 ## Wireframe
 
 ![Wireframe](readme-images/wireframebandb.png)
+
 *I used Figma to create my wireframe*
 
 ---
